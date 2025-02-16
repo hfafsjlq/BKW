@@ -1,7 +1,7 @@
 ## The BKW algorithm for solving LWE 
 Concrete security analysis of the BKW algorithm for solving LWE, predicting its time and memory consumption.
 Associated to the article [WBLW25] Memory-Efficient BKW Algorithm for Solving the LWE Problem.
-The source code is currently being uploaded.
+The source code is gradually being updated.
 
 
 ## Requirements
